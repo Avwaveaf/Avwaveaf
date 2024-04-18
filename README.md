@@ -1,7 +1,6 @@
 # Hi 👋, Im Muhamad Afif Fadillah
-I'm a student majoring in Information Technology at President University. I love building stuff, so i learn to build web App. currently i'm into React JS Framework and all web design related things.
+Love to learn stuff!
 
-[![Afif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avwaveaf)](https://github.com/avwaveaf/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Avwaveaf)](https://github.com/Avwaveaf/github-profile-trophy)
 
 
