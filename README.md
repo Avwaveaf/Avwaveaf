@@ -1,4 +1,4 @@
-# Hi 👋, Im Muhamad Afif Fadillah
+# Hi 👋, Im Afif
 Love to learn stuff!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Avwaveaf)](https://github.com/Avwaveaf/github-profile-trophy)
