@@ -47,6 +47,8 @@ I aim to transition into mobile development, where I can leverage my skills as a
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Avwaveaf)](https://github.com/Avwaveaf/github-profile-trophy)
 
+![Visitor Count](https://profile-counter.glitch.me/avwaveaf/count.svg)
+
 <!---
 Avwaveaf/Avwaveaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
