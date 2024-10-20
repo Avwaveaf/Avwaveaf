@@ -12,6 +12,7 @@ I aim to transition into mobile development, where I can leverage my skills as a
 | Projects & Skills                                         | Associated Project         |
 |-----------------------------------------------------------|----------------------------|
 | WorkManager, Preference Screen, Repository Pattern       | <a href="https://github.com/Avwaveaf/DicodingEvent">Event App</a> |
+| MVVM, Corousel Banner (auto scroll), Room, SearchView, WebView, AdvancedUI     | <a href="https://github.com/Avwaveaf/BitNews">BitNews</a> |
 | Material 3, Splash Screen, Implicit Intent               | <a href="https://github.com/Avwaveaf/GastroPedia">GastroPedia App</a> |
 | MVVM, Coroutines, Room Local Data Persistence             | <a href="https://github.com/Avwaveaf/Gratify-App">Gratify App</a> |
 | MVVM, Coroutines, Room Local Data Persistence, Search View | <a href="https://github.com/Avwaveaf/notes-app-native-android">Note Taking App</a> |
