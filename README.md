@@ -11,6 +11,7 @@ I aim to transition into mobile development, where I can leverage my skills as a
 
 | Projects & Skills                                         | Associated Project                                          | Release Available |
 |-----------------------------------------------------------|-------------------------------------------------------------|-------------------|
+| MVVM, motion layout, animation, widget, advanced UI      | <a href="https://github.com/Avwaveaf/StorySpace">Story Space</a>       |✅ (v.1.0)                |
 | WorkManager, Preference Screen, Repository Pattern         | <a href="https://github.com/Avwaveaf/DicodingEvent">Event App</a>       |✅                |
 | MVVM, Carousel Banner (auto-scroll), Room, SearchView, WebView, Advanced UI | <a href="https://github.com/Avwaveaf/BitNews">BitNews</a>       | ✅                |
 | Material 3, Splash Screen, Implicit Intent                | <a href="https://github.com/Avwaveaf/GastroPedia">GastroPedia App</a>   | ✅                |
