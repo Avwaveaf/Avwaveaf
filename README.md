@@ -3,21 +3,18 @@
 
 I am a passionate software developer with a focus on mobile development, eager to apply my academic knowledge and technical skills to contribute to innovative mobile solutions.
 
-## Objective
-
-I aim to transition into mobile development, where I can leverage my skills as a **Tier 1 Mobile Developer** and grow within a dynamic team, creating impactful applications that enhance user experiences.
-
 ## Projects & Skills
 
-| Projects & Skills                                         | Associated Project                                          | Release Available |
-|-----------------------------------------------------------|-------------------------------------------------------------|-------------------|
-| MVVM, motion layout, animation, widget, advanced UI      | <a href="https://github.com/Avwaveaf/StorySpace">Story Space</a>       |✅ (v.1.0)                |
-| WorkManager, Preference Screen, Repository Pattern         | <a href="https://github.com/Avwaveaf/DicodingEvent">Event App</a>       |✅                |
-| MVVM, Carousel Banner (auto-scroll), Room, SearchView, WebView, Advanced UI | <a href="https://github.com/Avwaveaf/BitNews">BitNews</a>       | ✅                |
-| Material 3, Splash Screen, Implicit Intent                | <a href="https://github.com/Avwaveaf/GastroPedia">GastroPedia App</a>   | ✅                |
-| MVVM, Coroutines, Room Local Data Persistence             | <a href="https://github.com/Avwaveaf/Gratify-App">Gratify App</a>      |✅                |
-| MVVM, Coroutines, Room Local Data Persistence, Search View | <a href="https://github.com/Avwaveaf/notes-app-native-android">Note Taking App</a>  | ❌                 |
-| MVVM, Data Caching, Local DB, Retrofit, Hilt              | <a href="https://github.com/Avwaveaf/SmallIMDBApp">Small IMDB App</a>   |  ❌                |
+| Projects & Skills                                         | Associated Project                                          | Release Available | Platform |
+|-----------------------------------------------------------|-------------------------------------------------------------|-------------------|-------------------|
+| UIKit, Swift, Caching & Networking      | <a href="https://github.com/Avwaveaf/Trivinema">Trivinema 🎬</a>       | ❌                | IOS |
+| MVVM, motion layout, animation, widget, advanced UI      | <a href="https://github.com/Avwaveaf/StorySpace">Story Space</a>       |✅ (v.1.0)                | Android |
+| WorkManager, Preference Screen, Repository Pattern         | <a href="https://github.com/Avwaveaf/DicodingEvent">Event App</a>       |✅                | Android |
+| MVVM, Carousel Banner (auto-scroll), Room, SearchView, WebView, Advanced UI | <a href="https://github.com/Avwaveaf/BitNews">BitNews</a>       | ✅                | Android |
+| Material 3, Splash Screen, Implicit Intent                | <a href="https://github.com/Avwaveaf/GastroPedia">GastroPedia App</a>   | ✅                | Android |
+| MVVM, Coroutines, Room Local Data Persistence             | <a href="https://github.com/Avwaveaf/Gratify-App">Gratify App</a>      |✅                | Android |
+| MVVM, Coroutines, Room Local Data Persistence, Search View | <a href="https://github.com/Avwaveaf/notes-app-native-android">Note Taking App</a>  | ❌                 | Android |
+| MVVM, Data Caching, Local DB, Retrofit, Hilt              | <a href="https://github.com/Avwaveaf/SmallIMDBApp">Small IMDB App</a>   |  ❌                | Android |
 
 
 
@@ -28,6 +25,8 @@ I aim to transition into mobile development, where I can leverage my skills as a
     <img src="https://img.shields.io/badge/-Kotlin-7F52B1?&style=for-the-badge&logo=kotlin&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-Android-3DDC84?&style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </div>
 
 ### Tools & Libraries
@@ -47,11 +46,6 @@ I aim to transition into mobile development, where I can leverage my skills as a
 ## Github Trophies
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Avwaveaf)](https://github.com/Avwaveaf/github-profile-trophy)
-
-## Leetcode Activities
-![](https://leetcard.jacoblin.cool/avwave12?ext=heatmap)
-
-[![Visits Badge](https://badges.pufler.dev/visits/avwaveaf/badge-it)](https://badges.pufler.dev)
 
 
 <!---
